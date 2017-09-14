@@ -4,9 +4,14 @@
   box-sizing: border-box;
 }
 
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 header {
     background-color: #06D6A0;
     padding: 20px;
+    position: relative;
 }
 
 h1 {
@@ -22,8 +27,12 @@ ul {
 
 li {
     display: inline-block;
+    font-size: 20px;
+    padding: 0 10px;
 }
 
 nav {
     display: inline-block;
+    position: absolute;
+    right: 4%;
 }
