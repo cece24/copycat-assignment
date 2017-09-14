@@ -8,6 +8,14 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
 .main-header {
     background-color: #06D6A0;
     padding: 20px;
@@ -60,4 +68,9 @@ section.home {
 main {
     max-width: 900px;
     margin: auto;
+}
+
+section.cats {
+    background-color: #FFD166;
+    padding: 15px 25px;
 }
