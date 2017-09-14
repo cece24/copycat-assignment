@@ -36,3 +36,28 @@ nav {
     position: absolute;
     right: 4%;
 }
+
+.home-image img {
+    width: 100%;
+}
+
+.home-image {
+    width: 60%;
+    float: left;
+}
+
+section.home {
+    overflow: hidden;
+    background-color: #26547C;
+}
+
+.home h2 {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+}
