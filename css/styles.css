@@ -74,3 +74,24 @@ section.cats {
     background-color: #FFD166;
     padding: 15px 25px;
 }
+
+section.products {
+    background-color: #F2F2F2;
+    padding: 15px 25px;
+}
+
+ul.product-list {
+    padding: 0;
+}
+
+li.product {
+    border: 3px solid black;
+    padding: 0;
+    display: inline-block;
+    width: 32%;
+    margin: 13px 4px;
+}
+
+.product > img {
+  width: 100%;
+}
