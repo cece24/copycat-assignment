@@ -95,3 +95,24 @@ li.product {
 .product > img {
   width: 100%;
 }
+
+.about-headings {
+    text-transform: uppercase;
+    color: #EF476F;
+    text-align: center;
+}
+
+.about-headings h3 {
+    float: left;
+    width: 33%;
+}
+
+section.about > p {
+    color: white;
+}
+
+section.about {
+    background-color: #26547C;
+    overflow: hidden;
+    padding: 15px 25px;
+}
